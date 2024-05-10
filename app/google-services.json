@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263054914167",
+    "project_id": "quizsys-15344",
+    "storage_bucket": "quizsys-15344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263054914167:android:7ffdfe2acd1aef51080c72",
+        "android_client_info": {
+          "package_name": "com.tuvdd.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoBeZCwl6PtZ3cwtxon6WgOLk5P-8WJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
